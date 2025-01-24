@@ -1,7 +1,7 @@
 import ReactDom from 'react-dom';
 import Index from './index';
 
-require('./../style/scss/global.scss');
+require('./../style/css/global.css');
 
 const app = document.getElementById('mac-react-container');
 

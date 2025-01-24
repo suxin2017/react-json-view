@@ -26,7 +26,7 @@ const config = {
         minimize: true
     },
     resolve: {
-        extensions: ['.js', '.json', '.css', '.scss']
+        extensions: ['.js', '.json', '.css']
     },
     module: {
         rules: [

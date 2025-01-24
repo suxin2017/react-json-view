@@ -36,7 +36,7 @@ const config = {
     minimize: false
   },
   resolve: {
-    extensions: [".js", ".json", ".css", ".scss"]
+    extensions: [".js", ".json", ".css"]
   },
   devtool: "eval-source-map",
   module: {
